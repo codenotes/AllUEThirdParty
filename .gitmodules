@@ -1,3 +1,15 @@
 [submodule "ROS"]
 	path = ROS
 	url = https://github.com/codenotes/ROS_ThirdParty.git
+[submodule "BOOST_1_60"]
+	path = BOOST_1_60
+	url = https://github.com/codenotes/BOOST_1_60_ThirdParty.git
+[submodule "python"]
+	path = python
+	url = https://github.com/codenotes/python_thirdparty.git
+[submodule "vsthost"]
+	path = vsthost
+	url = https://github.com/codenotes/vsthost.git
+[submodule "QT5"]
+	path = QT5
+	url = https://github.com/codenotes/QT5_ThirdParty.git
