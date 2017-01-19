@@ -13,3 +13,6 @@
 [submodule "QT5"]
 	path = QT5
 	url = https://github.com/codenotes/QT5_ThirdParty.git
+[submodule "GSTREAMERLIB"]
+	path = GSTREAMERLIB
+	url = https://github.com/codenotes/GSTREAMERLIB.git
