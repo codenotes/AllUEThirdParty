@@ -16,3 +16,6 @@
 [submodule "GSTREAMERLIB"]
 	path = GSTREAMERLIB
 	url = https://github.com/codenotes/GSTREAMERLIB.git
+[submodule "gawk_ThirdParty"]
+	path = gawk_ThirdParty
+	url = https://github.com/codenotes/gawk_ThirdParty.git
